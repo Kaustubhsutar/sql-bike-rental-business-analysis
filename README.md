@@ -24,6 +24,7 @@ Everything used in this project is cloud-based and beginner-friendly 🚀
 ---
 
 ## 📂 Repository Structure
+```
 bike-rental-sql-analytics/
 │
 ├── datasets/                  # Raw dataset
@@ -37,3 +38,4 @@ bike-rental-sql-analytics/
 │
 ├── README.md
 └── LICENSE
+```
