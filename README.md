@@ -46,7 +46,7 @@ bike-rental-sql-analytics/
 ---
 # 📊 Key Findings
 
-## 🚴 Overall Platform Performance
+## Overall Platform Performance
 - The system processed **15,000** total rides across **25 stations** with **1,000 registered users**.
 - Data quality checks confirmed zero null values in critical ride fields (ride_id, user_id, timestamps), ensuring high dataset reliability.
 
