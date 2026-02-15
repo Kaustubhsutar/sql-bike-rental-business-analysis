@@ -129,3 +129,18 @@ The analysis reveals:
 - Bike redistribution strategies
 - Customer targeting campaigns
 - Subscription marketing opportunities
+
+---
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+## 🌟 About Me
+
+Hi there! I'm **Kaustubh Sutar**. I’m a data enthusiast and aspiring data analyst skilled in Power BI, Excel, SQL, and Python, exploring Machine Learning & AI to turn data into actionable insights.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubh-sutar-814134340/)
+
