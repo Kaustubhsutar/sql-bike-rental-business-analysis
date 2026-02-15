@@ -18,9 +18,6 @@ The analysis was performed entirely using Standard SQL in Google BigQuery.
 ## 🛠️ Important Links & Tools
 
 Everything used in this project is cloud-based and beginner-friendly 🚀
-
+- **[Datasets](datasets/)**: Access to the project dataset (csv files).
 - **[Google BigQuery](https://cloud.google.com/bigquery)**: Fully managed, serverless data warehouse used for performing SQL-based analytics.
-- **[Google Cloud Platform (GCP)](https://cloud.google.com/)**: Platform used to host and manage the BigQuery environment.
-- **[Google Cloud Console](https://console.cloud.google.com/)**: Interface used to upload datasets and execute SQL queries.
-- **[BigQuery Public Datasets (Optional)](https://cloud.google.com/bigquery/public-data)**: Explore additional datasets for advanced analysis and extensions.
 - **[GitHub](https://github.com/)**: Version control and project hosting platform.
