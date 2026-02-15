@@ -58,7 +58,5 @@ The answers to these questions enable stakeholders to:
 - Optimize inventory allocation
 - Plan staffing for peak periods
 - Implement data-driven pricing strategies
-
-Design targeted marketing campaigns
-
-Improve overall operational efficiency
+- Design targeted marketing campaigns
+- Improve overall operational efficiency
