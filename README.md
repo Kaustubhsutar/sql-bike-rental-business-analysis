@@ -43,12 +43,16 @@ bike-rental-sql-analytics/
 ├── README.md                     # Project overview, executive summary, and key findings
 └── LICENSE                       # MIT License for open-source usage
 ```
+
 ---
+
 # 📊 Key Findings
 
-## Overall Platform Performance
+## 👁 Overall Platform Performance
 - The system processed **15,000** total rides across **25 stations** with **1,000 registered users**.
 - Data quality checks confirmed zero null values in critical ride fields (ride_id, user_id, timestamps), ensuring high dataset reliability.
+
+---
 
 ## 📏 Ride Behavior & Usage Patterns
 - The average ride duration was **28.75 minutes**, with rides ranging from **0 to 96 minutes**.
@@ -58,6 +62,8 @@ bike-rental-sql-analytics/
   I. **Medium category**: 7,092 rides
   II. **Long category**: 6,480 rides
 This highlights strong overall user engagement.
+
+---
 
 ## 👥 Customer Segmentation Insights
 - Casual users dominate usage, accounting for:
@@ -76,6 +82,8 @@ This highlights strong overall user engagement.
 - Casual users likely use bikes for leisure and longer trips.
 - Subscribers primarily use bikes for short, routine commuting.
 
+---
+
 ## ⏰ Peak Demand Analysis
 Ride activity peaks during:
 - **3 PM (1,617 rides)** — highest demand hour
@@ -85,6 +93,8 @@ Ride activity peaks during:
 Lowest activity occurs between **midnight and 4 AM**, indicating predictable off-peak hours.
 
 This clearly shows **commuter-driven demand patterns** with strong morning and afternoon spikes.
+
+---
 
 ## 📍 Station Performance & Flow Analysis
 
