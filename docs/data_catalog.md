@@ -1,4 +1,6 @@
-# 1. dbo.users
+# Data Catalog
+---
+## 1. dbo.users
 
 **Purpose**: Stores user-level information including demographic and registration details.
 | Column Name       | Data Type    | Description                                                        |
@@ -9,7 +11,7 @@
 | birth_year        | INT          | Year of birth of the user.                                         |
 | registration_date | DATE         | Date when the user registered in the system.                       |
 
-# 2. dbo.stations
+## 2. dbo.stations
 
 **Purpose**: Stores information about bike stations including geographic and operational details.
 | Column Name  | Data Type     | Description                                                 |
@@ -21,7 +23,7 @@
 | longitude    | DECIMAL(9,6)  | Geographic longitude coordinate of the station.             |
 | install_date | DATE          | Date when the station was installed and became operational. |
 
-# 3. dbo.rides
+## 3. dbo.rides
 
 **Purpose**: Stores transactional bike rental data for analytical and reporting purposes.
 | Column Name       | Data Type     | Description                                                           |
