@@ -9,8 +9,7 @@ This project analyzes bike rental data to answer key business questions such as:
 1. 📈 What are the **monthly** and **yearly** revenue trends?
 2. 🚴 How does rental demand vary by season?
 3. 👥 How do **casual** and **registered** users differ?
-4. 🌦️ How does weather impact rentals?
-5. 💰 What factors influence revenue growth?
+4. 💰 What factors influence revenue growth?
 The analysis was performed entirely using Standard SQL in Google BigQuery.
 
 ---
