@@ -20,3 +20,20 @@ Everything used in this project is cloud-based and beginner-friendly 🚀
 - **[Datasets](datasets/)**: Access to the project dataset (csv files).
 - **[Google BigQuery](https://cloud.google.com/bigquery)**: Fully managed, serverless data warehouse used for performing SQL-based analytics.
 - **[GitHub](https://github.com/)**: Version control and project hosting platform.
+
+---
+
+## 📂 Repository Structure
+bike-rental-sql-analytics/
+│
+├── datasets/                  # Raw dataset
+│
+├── scripts/
+│   ├── bike_rental_analysis_script.sql
+│
+├── docs/
+│   ├── data_catalog.md
+│   ├── business_questions.md
+│
+├── README.md
+└── LICENSE
