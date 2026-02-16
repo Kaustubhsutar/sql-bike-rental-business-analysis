@@ -28,20 +28,20 @@ Everything used in this project is cloud-based and beginner-friendly 🚀
 bike-rental-sql-analytics/
 │
 ├── datasets/                     
-│   ├── rides.csv                 # Transactional ride-level data (fact table)
-│   ├── users.csv                 # User/customer information (dimension table)
-│   ├── stations.csv              # Station location and metadata (dimension table)
+│   ├── rides.csv                         # Transactional ride-level data (fact table)
+│   ├── users.csv                         # User/customer information (dimension table)
+│   ├── stations.csv                      # Station location and metadata (dimension table)
 │
 ├── scripts/
 │   ├── bike_rental_analysis_script.sql   # Main SQL script containing all analytical queries,
 │                                         # aggregations, CTEs, window functions, and insights
 │
 ├── docs/
-│   ├── data_catalog.md           # Detailed data dictionary describing tables and columns
-│   ├── business_questions.md     # List of business problems solved through SQL analysis
+│   ├── data_catalog.md                   # Detailed data dictionary describing tables and columns
+│   ├── business_questions.md             # List of business problems solved through SQL analysis
 │
-├── README.md                     # Project overview, executive summary, and key findings
-└── LICENSE                       # MIT License for open-source usage
+├── README.md                             # Project overview, executive summary, and key findings
+└── LICENSE                               # MIT License for open-source usage
 ```
 
 ---
