@@ -46,7 +46,7 @@ bike-rental-sql-analytics/
 
 ---
 
-# 📊 Key Findings
+## 📊 Key Findings
 
 ## 👁 Overall Platform Performance
 - The system processed **15,000** total rides across **25 stations** with **1,000 registered users**.
