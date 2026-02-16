@@ -59,9 +59,12 @@ bike-rental-sql-analytics/
 - The **average ride distance** was **5.85 km**, with a maximum recorded distance of **19.37 km**.
 - Only **106** rides were short-duration trips, and just **1 ride** had zero distance, indicating minimal data anomalies.
 - Most rides fall into:
-  I. **Medium category**: 7,092 rides
-  II. **Long category**: 6,480 rides
-This highlights strong overall user engagement.
+  
+  **I. Medium category**: 7,092 rides
+  
+  **II. Long category**: 6,480 rides
+  
+  This highlights strong overall user engagement.
 
 ---
 
