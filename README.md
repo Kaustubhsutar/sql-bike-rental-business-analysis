@@ -2,7 +2,13 @@
 
 Welcome to the Bike Rental Analytics Project repository! 🚀
 
-This project showcases a real-world SQL analytics solution built using Google BigQuery, focusing on extracting actionable insights from bike rental data.
+## 📌 Executive Summary
+
+This project analyzes **15,000 bike rental transactions** using **Google BigQuery (Standard SQL)** to uncover revenue trends, user behavior patterns, peak demand cycles, and operational optimization opportunities.  
+
+Using advanced SQL techniques such as **CTEs, aggregations, window functions, time-based analysis, and segmentation**, the project simulates a real-world business intelligence workflow.  
+
+The analysis identifies strong commuter-driven demand, heavy reliance on casual riders (71% of total usage), clear peak-hour patterns, and station-level redistribution opportunities — delivering actionable insights for revenue growth and operational efficiency.
 
 ---
 ## Project Overview
@@ -24,7 +30,7 @@ Everything used in this project is cloud-based and beginner-friendly 🚀
 
 ---
 
-## ▶️ How to Run This Project : [Click Here](docs/how_to_run) 
+## ▶️ How to Run This Project : [`Click here to know`](docs/how_to_run.md)
 
 
 ---
@@ -140,13 +146,6 @@ The analysis reveals:
 - Clear hourly demand cycles
 - Station-level redistribution opportunities
 - Early rapid user growth followed by stabilization
-
-**These insights support:**
-- Demand forecasting
-- Staffing optimization
-- Bike redistribution strategies
-- Customer targeting campaigns
-- Subscription marketing opportunities
 
 ---
 
