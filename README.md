@@ -5,12 +5,12 @@ Welcome to the Bike Rental Analytics Project repository! 🚀
 This project showcases a real-world SQL analytics solution built using Google BigQuery, focusing on extracting actionable insights from bike rental data.
 
 ---
-## 📊 Project Overview
+## Project Overview
 This project analyzes bike rental data to answer key business questions such as:
-1. 📈 What are the **monthly** and **yearly** revenue trends?
-2. 🚴 How does rental demand vary by season?
-3. 👥 How do **casual** and **registered** users differ?
-4. 💰 What factors influence revenue growth?
+1.  What are the **monthly** and **yearly** revenue trends?
+2.  How does rental demand vary by season?
+3.  How do **casual** and **registered** users differ?
+4.  What factors influence revenue growth?
 The analysis was performed entirely using Standard SQL in Google BigQuery.
 
 ---
@@ -49,13 +49,13 @@ bike-rental-sql-analytics/
 
 ## 📊 Key Findings
 
-## 👁 Overall Platform Performance
+## Overall Platform Performance
 - The system processed **15,000** total rides across **25 stations** with **1,000 registered users**.
 - Data quality checks confirmed zero null values in critical ride fields (ride_id, user_id, timestamps), ensuring high dataset reliability.
 
 ---
 
-## 📏 Ride Behavior & Usage Patterns
+## Ride Behavior & Usage Patterns
 - The average ride duration was **28.75 minutes**, with rides ranging from **0 to 96 minutes**.
 - The **average ride distance** was **5.85 km**, with a maximum recorded distance of **19.37 km**.
 - Only **106** rides were short-duration trips, and just **1 ride** had zero distance, indicating minimal data anomalies.
@@ -69,7 +69,7 @@ bike-rental-sql-analytics/
 
 ---
 
-## 👥 Customer Segmentation Insights
+## Customer Segmentation Insights
 - Casual users dominate usage, accounting for:
   - **10,676 rides (71%)**
   - Compared to **4,324 rides (29%)** by Subscribers.
@@ -102,7 +102,7 @@ This clearly shows **commuter-driven demand patterns** with strong morning and a
 
 ## 📍 Station Performance & Flow Analysis
 
-### 🔝 Top Start Stations
+### Top Start Stations
 
 - Jennifer Land St – **648 rides**
 - King Harbors St – **634 rides**
