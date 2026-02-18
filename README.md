@@ -50,6 +50,7 @@ bike-rental-sql-analytics/
 ├── docs/
 │   ├── data_catalog.md                   # Detailed data dictionary describing tables and columns
 │   ├── business_questions.md             # List of business problems solved through SQL analysis
+│   └── how_to_run.md                     # Detailed steps to replicate the project 
 │
 ├── README.md                             # Project overview, executive summary, and key findings
 └── LICENSE                               # MIT License for open-source usage
