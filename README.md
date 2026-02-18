@@ -24,6 +24,10 @@ Everything used in this project is cloud-based and beginner-friendly 🚀
 
 ---
 
+## ▶️ How to Run This Project : [Click Here](docs/how_to_run) 
+
+
+---
 ## 📂 Repository Structure
 ```
 bike-rental-sql-analytics/
