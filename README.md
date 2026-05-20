@@ -209,9 +209,8 @@ ORDER BY total_rides DESC;
 
 ### 📌 Insight
 
-This analysis segments rider behavior by membership type, revealing that casual riders generate significantly longer and more frequent rides compared to subscribers.
+> This analysis segments rider behavior by membership type, revealing that casual riders generate significantly longer and more frequent rides compared to subscribers.
 
----
 
 ### 2️⃣ Hourly Demand Distribution
 
@@ -226,9 +225,8 @@ ORDER BY hour_of_day;
 
 ### 📌 Insight
 
-Identifies commuter-driven peak demand periods to support operational planning, staffing allocation, and bike redistribution strategies.
+> Identifies commuter-driven peak demand periods to support operational planning, staffing allocation, and bike redistribution strategies.
 
----
 
 ### 3️⃣ Net Station Flow Analysis
 
@@ -263,9 +261,8 @@ ORDER BY net_flow;
 
 ### 📌 Insight
 
-Highlights stations with major inflow/outflow imbalance, enabling smarter bike redistribution and operational optimization.
+> Highlights stations with major inflow/outflow imbalance, enabling smarter bike redistribution and operational optimization.
 
----
 
 ### 4️⃣ Month-over-Month User Growth
 
@@ -304,7 +301,7 @@ ORDER BY signup_month;
 
 ### 📌 Insight
 
-Uses window functions to evaluate platform growth trends and identify periods of accelerated customer acquisition.
+> Uses window functions to evaluate platform growth trends and identify periods of accelerated customer acquisition.
 
 ---
 
