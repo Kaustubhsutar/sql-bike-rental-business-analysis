@@ -30,7 +30,7 @@ Everything used in this project is cloud-based and beginner-friendly 🚀
 
 ---
 
-## ▶️ How to Run This Project : [`Click here to know`](docs/how_to_run.md)
+## ▶️ How to Run This Project : [Click here to know](docs/how_to_run.md)
 
 
 ---
